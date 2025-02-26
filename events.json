@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Food Distribution",
+    "description": "Join us in providing meals to those in need.",
+    "date": "2025-02-02",
+    "category": "community_support"
+  },
+  {
+    "title": "Tree Planting",
+    "description": "Join us to plant trees for a greener environment.",
+    "date": "2025-05-25",
+    "category": "community_support"
+  },
+  {
+    "title": "Beach Cleaning",
+    "description": "Join us in keeping the environment clean.",
+    "date": "2025-08-12",
+    "category": "cleanups"
+  },
+  {
+    "title": "Caring For The Elderly",
+    "description": "Join us in providing social comfort to elderly citizens.",
+    "date": "2025-03-12",
+    "category": "support_services"
+  },
+  {
+    "title": "Animal Care",
+    "description": "Join us in taking care of animals at the shelter.",
+    "date": "2025-06-12",
+    "category": "support_services"
+  },
+  {
+    "title": "Construction Assistance",
+    "description": "Assist in community building projects and repairs.",
+    "date": "2025-07-11",
+    "category": "community_support"
+  }
+]
